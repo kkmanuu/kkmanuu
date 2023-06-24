@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
+
 💫 About Me:
 🔭 I’m currently working on AI and a professional Electronic website.
 👯 I’m looking to collaborate on Open Source Projects
@@ -11,9 +13,6 @@
 💬 Ask me about JavaScript, HTML, React, CSS
 
 📫 How to reach me kipngenoemmanuel@gmail.com
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmanuu" alt="kkmanuu" /></a> </p>
 
