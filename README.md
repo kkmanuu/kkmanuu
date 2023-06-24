@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm kkmanuu</h1>
 
 💫 About Me:
@@ -19,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmanuu" alt="kkmanuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kkmanuu1" target="blank"><img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" alt="kkmanuu1" /></a> </p>
-- ⚡ Fun fact **I think I'm smilling machine**
+- ⚡ Fun fact *I think I'm smilling machine*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +44,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://github.com/kkmanuu) 
-
-  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://github.com/kkmanuu)
