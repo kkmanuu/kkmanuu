@@ -11,6 +11,7 @@
 
 <h3 align="center">A dedicated and skilled full stack developer from Kenya.</h3>
 
+
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
@@ -18,7 +19,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmanuu" alt="kkmanuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kkmanuu1" target="blank"><img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" alt="kkmanuu1" /></a> </p>
-
 - ⚡ Fun fact **I think I'm smilling machine**
 
 <h3 align="left">Connect with me:</h3>
