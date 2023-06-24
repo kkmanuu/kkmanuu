@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm kkmanuu</h1>
+
 💫 About Me:
 🔭 I’m currently working on AI and a professional Electronic website.
 👯 I’m looking to collaborate on Open Source Projects
 🤝 I’m looking for help with AI Engineers
 💬 Ask me about JavaScript, HTML, React, CSS
 
-📫 How to reach me kipngenoemmanuel@gmail.com
+📫 How to reach me: kipngenoemmanuel@gmail.com
 
 <h3 align="center">A dedicated and skilled full stack developer from Kenya.</h3>
 
