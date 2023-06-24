@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmanuu" alt="kkmanuu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kkmanuu1" target="blank"><img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" alt="kkmanuu1" /></a> </p>
-- ⚡ Fun fact *I think I'm smilling machine*
+- ⚡ Fun fact: I think I'm smiling machine 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
