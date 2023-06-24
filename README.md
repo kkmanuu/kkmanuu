@@ -4,6 +4,15 @@
 
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+💫 About Me:
+🔭 I’m currently working on AI and a professional Electronic website.
+👯 I’m looking to collaborate on Open Source Projects
+🤝 I’m looking for help with AI Engineers
+💬 Ask me about JavaScript, HTML, React, CSS
+
+📫 How to reach me kipngenoemmanuel@gmail.com
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkmanuu" alt="kkmanuu" /></a> </p>
@@ -32,6 +41,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkmanuu&" alt="kkmanuu" /></p>
 
-<h3 align="left">Support:</h3>
-IN Kenya
-Buy Me A Coffee
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://github.com/kkmanuu) 
+
+  
