@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm kkmanuu</h1>
 
 💫 About Me:
-🔭 I’m currently working on AI and a professional Electronic website.
+
+🔭 I’m currently studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
 
 👯 I’m looking to collaborate on Open Source Projects
 
