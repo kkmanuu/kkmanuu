@@ -7,7 +7,7 @@
 
 🤝 I’m looking for help with AI Engineers
 
-💬 Ask me about JavaScript, HTML,CSS,React.
+💬 Ask me about HTML, Javascript, CSS, and React.
 
 📫 How to reach me: kipngenoemmanuel@gmail.com
 
