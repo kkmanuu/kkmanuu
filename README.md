@@ -2,8 +2,11 @@
 
 💫 About Me:
 🔭 I’m currently working on AI and a professional Electronic website.
+
 👯 I’m looking to collaborate on Open Source Projects
+
 🤝 I’m looking for help with AI Engineers
+
 💬 Ask me about JavaScript, HTML,CSS,React.
 
 📫 How to reach me: kipngenoemmanuel@gmail.com
