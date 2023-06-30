@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kkmanuu</h1>
 
-<h2💫 About Me:</h2>
+💫 About Me:
 🔭 I’m currently working on AI and a professional Electronic website.
 👯 I’m looking to collaborate on Open Source Projects
 🤝 I’m looking for help with AI Engineers
