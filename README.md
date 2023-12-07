@@ -8,7 +8,7 @@
 
 🤝 I’m looking for help with Full stack Developers.
 
-💬 Ask me about HTML, Javascript, CSS, and React.
+💬 Ask me about HTML, Javascript, CSS, React, Ruby on Rails and Redux. 
 
 📫 How to reach me: kipngenoemmanuel@gmail.com
 
