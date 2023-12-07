@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kkmanuu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkmanuu1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linemmanuel-kipngeno-879370242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linemmanuel-kipngeno-879370242/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-kipngeno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/emmanuel-kipngeno/" height="30" width="40" /></a>
 <a href="https://instagram.com/manuu_kips_479/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuu_kips_479/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kipngenoemmanue1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://wkipngenoemmanue1?hr_r=1" height="30" width="40" /></a>
 </p>
