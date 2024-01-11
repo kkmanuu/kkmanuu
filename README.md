@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on Open Source Projects
 
-🤝 I’m looking for help with Full stack Developers.
+🤝 I’m looking for help with Full stack  Web Developers.
 
 💬 Ask me about HTML, Javascript, CSS, React, Ruby on Rails and Redux. 
 
