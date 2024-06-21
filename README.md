@@ -2,7 +2,7 @@
 
 💫 About Me:
 
-🔭 I’m currently studying at Microverse, an online training school where I code 8 hours a day remotely with other developers 
+🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.
 
 👯 I’m looking to collaborate on Open Source Projects
 
