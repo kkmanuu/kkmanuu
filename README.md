@@ -4,7 +4,7 @@
 
 🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.
 
-👯 I’m looking to collaborate on Open Source Projects
+👯 I’m looking to collaborate on Open Source Projects.
 
 🤝  I’m seeking new work opportunities as a Full Stack Web Developer and looking to get involved in Open Source Projects.
 
@@ -12,7 +12,7 @@
 
 📫 How to reach me: kipngenoemmanuel@gmail.com
 
-<h3 align="center">A dedicated and skilled full stack developer from Kenya.</h3>
+<h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya.</h3>
 
 
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
