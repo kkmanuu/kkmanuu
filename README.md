@@ -17,31 +17,33 @@
 🧐 I love sharing insights and making a positive impact. 
 
 
+
 <h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya.</h3>
 
-
-<img align="right" alt="coding" widht="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
+<div align="center">
+    <img alt="coding" width="700" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+</div>
 
 ## ⚡ A Few Quick Facts:
-<img align="right" src="https://github.com/Peter-Kibet/Peter-Kibet/blob/master/gifs/octocat-anime.gif" />
+
 🔭 I’m currently working on multiple projects on Computer Vision.
- 
-🧮 I’m currently learning AI .
+
+🧮 I’m currently learning AI.
 
 👯 I’m looking to collaborate on any Computer Vision related research project.
 
-🤔 I’m looking for help with AI , Group theory.
+🤔 I’m looking for help with AI, Group theory.
 
 💬 Ask me about anything related to the latest tech.
 
 📫 How to reach me: [Gmail](mailto:kipngenoemmanuel@gmail.com)
-  
+
 - 😄 Pronouns: He/Him
-  
+
 - 🧾 Check out my [resume](file:///C:/Users/USER/Downloads/Emmanuel_kipngeno_Resume%20(7).311b62216d21daea95de%20(6).pdf).
-  
+
 - 📝 I often write articles on [my blog](https://medium.com/@kipngenoemmanuel479).
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
 
