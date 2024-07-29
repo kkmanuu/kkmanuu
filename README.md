@@ -48,6 +48,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kkmanuu1" target="blank"><img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" alt="kkmanuu1" /></a> </p>
+
 - ⚡ Fun fact: I think I'm smiling machine 😄
 
 <h3 align="left">Connect with me:</h3>
