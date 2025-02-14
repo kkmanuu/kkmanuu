@@ -12,7 +12,7 @@
 👯 currently working as a Software Engineer Fellow at Headstarter AI 🚀.
 
 
-💬 Ask me about HTML, JavaScript, CSS, React, Ruby on Rails, MongoDB, PHP , PostgreSQ Land Redux. I’m passionate about data science, data visualization, and research . 
+💬 Ask me about HTML, JavaScript, CSS, React, Ruby on Rails, MongoDB, PHP , PostgreSQ and Redux. I’m passionate about data science, data visualization, and research . 
 
 🧐 I love sharing insights and making a positive impact. 
 
@@ -28,7 +28,7 @@
 
 🔭 I’m currently working on multiple projects on Computer Vision.
 
-🧮 I’m currently learning AI.
+🧮 I’m currently learning AI and Mobile development
 
 👯 I’m looking to collaborate on any Computer Vision related research project.
 
