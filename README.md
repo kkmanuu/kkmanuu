@@ -40,7 +40,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🧾 Check out my [resume](file:///C:/Users/USER/Downloads/Emmanuel_kipngeno_Resume%20(7).311b62216d21daea95de%20(6).pdf).
+- 🧾 Check out my [resume](file:///C:/Users/USER/Downloads/Emmanuel_Kipngeno_Resume.pdf).
 
 - 📝 I often write articles on [my blog](https://medium.com/@kipngenoemmanuel479).
 
