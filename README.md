@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya.</h3>
+<h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya .</h3>
 
 <div align="center">
     <img alt="coding" width="700" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
