@@ -26,7 +26,7 @@
 
 ## ⚡ A Few Quick Facts:
 
-🔭 I’m currently working on multiple projects on Computer Vision. 
+🔭 I’m currently working on multiple projects on Computer Vision .
 
 🧮 I’m currently learning AI and Mobile development
 
