@@ -32,7 +32,7 @@
 
 👯 I’m looking to collaborate on any Computer Vision related research project.
 
-🤔 I’m looking for help with AI, Group theory.
+🤔 I’m looking for help with AI, Group theory. 
 
 💬 Ask me about anything related to the latest tech.
 
