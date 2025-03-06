@@ -9,12 +9,12 @@
 
 🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.
 
-👯 currently working as a Software Engineer Fellow at Headstarter AI 🚀.
+👯 currently working as a Software Engineer Fellow at Headstarter AI  🚀.
 
 
 💬 Ask me about HTML, JavaScript, CSS, React, Ruby on Rails, MongoDB, Vue.j, PHP , PostgreSQ and Redux. I’m passionate about data science, data visualization, and research . 
 
-🧐 I love sharing insights and making a positive impact. 
+🧐 I love sharing insights and making a positive impact . 
 
 
 
