@@ -24,6 +24,7 @@
     <img alt="coding" width="700" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 </div>
 
+
 ## ⚡ A Few Quick Facts:
 
 🔭 I’m currently working on multiple projects on Computer Vision .
@@ -117,11 +118,13 @@
 </div>
 <br>
 
+
 ## 🏆 GitHub Trophies:
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kkmanuu&column=8&row=1">
 </p>
 <br>
+
 
 ## 📈 GitHub Contribution Graph:
 <div align="center">
