@@ -2,7 +2,7 @@
  
 <img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a> 
 
-💫 About Me:  
+💫 About Me:   
  
 🎓 I’m a computer science graduate with hands-on experience in exploratory data analysis, machine learning, computer vision, and statistics 💻. I am also a full-stack web developer 🌐. My research interests include Computer Vision, Geometric Machine Learning, Group Theory ✨.
 
