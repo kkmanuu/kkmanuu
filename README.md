@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kkmanuu</h1> 
  
-<img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a>   
+<img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a>    
 
 💫 About Me:   
     
