@@ -8,7 +8,7 @@
 
 
  
-🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.       
+🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.        
 
 👯 currently working as a Software  Engineer Fellow at Headstarter AI  🚀.      
 
