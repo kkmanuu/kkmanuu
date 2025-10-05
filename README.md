@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kkmanuu</h1>   
-   
+    
 <img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a>             
      
 💫 About Me:    
@@ -8,7 +8,7 @@
 
 
  
-🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.         
+🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.          
 
 👯 currently working as a Software  Engineer Fellow at Headstarter AI  🚀.      
 
