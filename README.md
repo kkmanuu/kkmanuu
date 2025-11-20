@@ -5,8 +5,6 @@
 💫 About Me:    
     
 🎓 I’m a computer science graduate with hands-on experience in exploratory data analysis, machine learning, computer vision, and statistics 💻. I am also a full-stack web developer 🌐. My research interests include Computer Vision, Geometric Machine Learning, Group Theory ✨.
-
-
  
 🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.          
 
