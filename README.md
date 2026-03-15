@@ -15,7 +15,6 @@
 🧐 I love sharing insights and making a positive impact .   
 
 
-
 <h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya .</h3>
 
 <div align="center">
