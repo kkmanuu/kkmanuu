@@ -22,7 +22,7 @@
  
 </div>
 
-   
+
 ## ⚡ A Few Quick Facts:
 
 🔭 I’m currently working on multiple projects on Computer Vision .
