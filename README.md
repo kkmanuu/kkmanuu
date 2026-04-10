@@ -140,7 +140,7 @@
 <br>
 
 
-<a href="https://stardev.io/developers/kkmanuu"><img alt="Check out kkmanuu's profile on stardev.io" src="https://stardev.io/developers/kkmanuu/badge/languages/global.svg" /></a>
+<!-- <a href="https://stardev.io/developers/kkmanuu"><img alt="Check out kkmanuu's profile on stardev.io" src="https://stardev.io/developers/kkmanuu/badge/languages/global.svg" /></a> -->
 
 
 ## 🕑 Wakatime Stats:
