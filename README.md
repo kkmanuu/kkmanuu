@@ -117,13 +117,6 @@
 <br>
 
 
-## 🏆 GitHub Trophies:
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kkmanuu&column=8&row=1">
-</p>
-<br>
-
-
 ## 📈 GitHub Contribution Graph:
 <div align="center">
     <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=kkmanuu&theme=minimal"/>
