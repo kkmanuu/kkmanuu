@@ -4,63 +4,89 @@
      
 💫 About Me:    
     
-🎓 I’m a computer science graduate with hands-on experience in exploratory data analysis, machine learning, computer vision, and statistics 💻. I am also a full-stack web developer 🌐. My research interests include Computer Vision, Geometric Machine Learning, Group Theory ✨.
+🎓 I’m a Computer Science graduate with hands-on experience in exploratory data analysis, machine learning, computer vision, and statistics 💻. I am also a Full-Stack Web Developer 🌐. My research interests include Computer Vision, Geometric Machine Learning, and Group Theory ✨.
  
 🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.          
 
-👯 currently working as a Software  Engineer Fellow at Headstarter AI  🚀.      
+🚀 Currently working as a Software Engineer Fellow at Headstarter AI  
 
-💬 Ask me about HTML, JavaScript, Node.js, Xampp, CSS, React, Ruby on Rails, MongoDB, Vue.j, PHP ,Next.js, PostgreSQ and Redux. I’m passionate about data science, data visualization, and research .  
+💬 Ask me about HTML, JavaScript, Node.js, XAMPP, CSS, React, Ruby on Rails, MongoDB, Vue.js, PHP, Next.js, PostgreSQL, and Redux  
 
-🧐 I love sharing insights and making a positive impact .   
+🧠 Passionate about Data Science, Data Visualization, and Research  
 
+🧐 I love sharing insights and making a positive impact  
 
-<h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya .</h3>
+---
+
+## 💼 Open to Opportunities
+
+- ✅ Full-Stack Developer roles  
+- ✅ Frontend / Backend roles  
+- ✅ Remote or On-site opportunities  
+
+📩 Reach me: **kipngenoemmanuel479@gmail.com**
+
+---
+
+<h3 align="center">A Dedicated and Skilled Full-Stack Developer from Kenya 🇰🇪</h3>
 
 <div align="center">
     <img alt="coding" width="700" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
- 
 </div>
 
+---
 
 ## ⚡ A Few Quick Facts:
 
-🔭 I’m currently working on multiple projects on Computer Vision .
+🔭 I’m currently working on multiple projects on Computer Vision  
 
-🧮 I’m currently learning AI and Mobile development
+🧮 I’m currently learning AI and Mobile Development  
 
-👯 I’m looking to collaborate on any Computer Vision related research project.
+👯 I’m looking to collaborate on Computer Vision related research projects  
 
-🤔 I’m looking for help with AI, Group theory. 
+🤔 I’m looking for help with AI and Group Theory  
 
-💬 Ask me about anything related to the latest tech.
+💬 Ask me about anything related to the latest tech  
 
 📫 How to reach me: [Gmail](mailto:kipngenoemmanuel@gmail.com)
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I think I'm a smiling machine 😄  
 
-- 🧾 Check out my [resume](file:///C:/Users/USER/Downloads/Emmanuel_Kipngeno_Resume.pdf).
+- 🧾 Check out my [resume](#) <!-- Replace # with your Google Drive or hosted resume link -->
 
-- 📝 I often write articles on [my blog](https://medium.com/@kipngenoemmanuel479).
+- 📝 I often write articles on [my blog](https://medium.com/@kipngenoemmanuel479)
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/kkmanuu1" target="blank"><img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" alt="kkmanuu1" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> 
+</p>
 
-- ⚡ Fun fact: I think I'm smiling machine 😄
+<p align="left"> 
+  <a href="https://twitter.com/kkmanuu1" target="blank">
+    <img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" />
+  </a> 
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🤝 Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/kkmanuu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkmanuu1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/emmanuel-kipngeno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/emmanuel-kipngeno/" height="30" width="40" /></a>
-<a href="https://instagram.com/manuu_kips_479/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuu_kips_479/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kipngenoemmanue1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://wkipngenoemmanue1?hr_r=1" height="30" width="40" /></a>
+<a href="https://twitter.com/kkmanuu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-kipngeno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/manuu_kips_479/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kipngenoemmanue1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>       
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px">
+</a>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -94,40 +120,32 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,bash" />
 </p>
 
+---
 
 ## 📈 GitHub Contribution Graph:
+
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=kkmanuu&theme=minimal"/>
+  <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=kkmanuu&theme=minimal"/>
 </div>
-<br>
+
+---
 
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between;">
-  <img alt="Emmanuel's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kkmanuu&theme=white&hide_border=true" width='48%' />
-  <img alt="Emmanuel's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=kkmanuu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkmanuu&theme=white&hide_border=true" width='48%' />
+  <img src="https://github-readme-stats-mauve-ten.vercel.app/api?username=kkmanuu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 </div>
 
-<br>
-
-
-<!-- <a href="https://stardev.io/developers/kkmanuu"><img alt="Check out kkmanuu's profile on stardev.io" src="https://stardev.io/developers/kkmanuu/badge/languages/global.svg" /></a> -->
-
+---
 
 ## 🕑 Wakatime Stats:
 
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
