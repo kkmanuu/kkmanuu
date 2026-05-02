@@ -53,7 +53,7 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I think I'm a smiling machine 😄  
 
-- 🧾 Check out my [resume](#) <!-- Replace # with your Google Drive or hosted resume link -->
+- 🧾 Check out my [resume](#)
 
 - 📝 I often write articles on [my blog](https://medium.com/@kipngenoemmanuel479)
 
