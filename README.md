@@ -44,7 +44,7 @@
 
 👯 I’m looking to collaborate on Computer Vision related research projects  
 
-🤔 I’m looking for help with AI and Group Theory  
+🤔 I’m looking for help with AI and Group Theory  .
 
 💬 Ask me about anything related to the latest tech  
 
