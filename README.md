@@ -47,7 +47,7 @@
 
 🤔 I’m looking for help with AI and Group Theory  .
 
-💬 Ask me about anything related to the latest tech  .
+💬 Ask me about anything related to the latest tech 
 
 📫 How to reach me: [Gmail](mailto:kipngenoemmanuel@gmail.com)
 
