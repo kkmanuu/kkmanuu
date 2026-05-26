@@ -43,7 +43,7 @@
 
 🧮 I’m currently learning AI and Mobile Development  
 
-👯 I’m looking to collaborate on Computer Vision related research projects  
+👯 I’m looking to collaborate on Computer Vision related research projects  .
 
 🤔 I’m looking for help with AI and Group Theory  .
 
