@@ -15,7 +15,7 @@
 🧠 Passionate about Data Science, Data Visualization, and Research .
 
 🧐 I love sharing insights and making a positive impact .
----
+--- 
 
 ## 💼 Open to Opportunities
 
