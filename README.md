@@ -119,7 +119,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,bash" />
 </p>
-
 ---
 
 ## 📈 GitHub Contribution Graph:
