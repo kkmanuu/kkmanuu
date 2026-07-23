@@ -12,7 +12,7 @@
 
 💬 Ask me about HTML, JavaScript, Node.js, XAMPP, CSS, React, Ruby on Rails, MongoDB, Vue.js, PHP, Next.js, PostgreSQL, and Redux  .
 
-🧠 Passionate about Data Science, Data Visualization, and Research .
+🧠 Passionate about Data Science, Data Visualization, and Research . 
 
 🧐 I love sharing insights and making a positive impact .
 --- 
